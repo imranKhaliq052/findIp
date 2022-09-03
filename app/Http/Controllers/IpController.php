@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Jobs\IpJob;
 use App\Models\Site;
 use Illuminate\Http\Request;
+use App\Models\User;
 
 class IpController extends Controller
 {    
